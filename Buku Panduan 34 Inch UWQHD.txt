@@ -1,0 +1,67 @@
+Panduan Pemasangan Aurora Light by Qays corporation
+
+1. Bersihkan permukaan belakang Monitor/TV pastikan tidak ada debu yang menempel
+2. Tempelkan Aurora Light pada belakang permukaan Monitor/TV, untuk kabel berada pada posisi kanan bawah jika dari depan, semisal dari tampak belakang di pojok kiri bawah.
+3. Sambungkan Aurora Light dengan modul controller
+4. Sambungkan modul controller dengan adaptor yang sudah disediakan
+5. Sambungkan modul controller dengan PC via usb
+6. Pastikan Aurora Light berkedip RGB (Merah, Hijau, Biru) sebagai tanda kalau Hardware sudah aman. Jika tidak berkedip harap hub penjual
+7. Lanjutkan Setup Program
+
+Panduan Setup Aurora Light by Qays Corporation
+
+1. Klik 2x program Aurora Light by Qays Corporation
+2. Klik next sampai instalasi selesai
+3. Buka program Aurora Light by Qays Corporation
+4. Program akan otomatis minimize ke system tray
+5. Klik kanan program Aurora Light
+6. Klik Setting, maka akan muncul program Aurora Light
+7. Klik Device dan Run Configuration Wizard
+8. Klik Next walaupun ada tulisan Lightpack is not connected
+9. Klik Adalight (Serial, 511 LEDs)
+10. Klik Next
+11. Masukkan Serial Port Modul Aurora Light
+
+Windows: Lihat di Device Manager bagian Port USB "USB Serial Ch340" Masukkan COM nya misal COM8 jika tidak ada mohon install driver yang sudah dikirimkan
+
+Mac :
++ Buka terminal ketikkan ls /dev/* lalu enter
++ Cari yang ada tulisan berformat dev/tty.usbmodem* or /dev/tty.usbserial*
++ Copy sampai angka terakhir misal /dev/tty.usbserial3140", jika tidak ada mohon install driver yang sudah dikirimkan
++ Paste ke kolom port
+
+12. Pilih Baudrate di 115200 (Versi Terbaru pilih Baudrate di 921600)
+13. Pilih Color Format RGB
+14. Klik Next
+15. Masukkan Nama Profile yang diinginkan
+16. Klik Next
+17. Jika ukuran layar 34" maka masukkan
+
+Top = 44
+Sides = 17
+Bottom = 44
+Stand Width = 0
+Start Offset = -22
+
+19. Klik Custom (Pastikan Atur Start Offset hingga posisi LED ke 1 berada dipojok kanan bawah)
+20. Klik Next
+21. Atur cahaya Aurora Light sampai warna tembok mendekati dengan warna putih dilayar
+22. Klik Finish
+23. Klik About dan Matikan
++ (Uncheck) Check for update
++ (Uncheck) Install updates auto
+24. Lanjut kelangkah memilih mode
+
+Langkah pilih Mode Aurora Light by Qays Corporation
+1. Buka program Aurora Light
+2. Klik Kanan program, turn on untuk menyalakan atau klik Turn Lights On pada Mode (atau sebaliknya)
+3. Pilih mode yang diinginkan
++ Screen Grabbing untuk menyesuaikan dengan warna dilayar
++ Mood lamp untuk warna statis atau effect
++ Sound visualization
+
+Untuk akses Netflix, Disney+, dan siaran berlangganan lainnya harap menggunakan Mozilla Firefox 😊
+
+Terimakasih telah berbelanja di Qays Corporation 😊 jika produknya berkenan mohon dibantu foto ulasan dan bintang 5 nya ya agan karena hal ini sangat berarti untuk kami 😊 Terimakasih banyak 😊
+
+Dapatkan tambahan garansi 1 bulan dan service lifetime dengan memberikan foto ulasan dan bintang 5 😊
